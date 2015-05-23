@@ -1,6 +1,6 @@
 {
   "name": "module-not-found-error",
-  "main": "./src",
+  "main": "./release",
   "version": "1.0.0",
   "description": "Create a module not found error",
   "license": "MIT",
