@@ -1,7 +1,7 @@
 {
   "name": "module-not-found-error",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a module not found error",
   "license": "MIT",
   "repository": "bendrucker/module-not-found-error",
