@@ -19,7 +19,7 @@
     "error"
   ],
   "devDependencies": {
-    "standard": "^4.5.2",
+    "standard": "^12.0.1",
     "tape": "^4.0.0"
   },
   "files": [
