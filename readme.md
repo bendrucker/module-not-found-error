@@ -1,4 +1,4 @@
-# module-not-found-error [![Build Status](https://travis-ci.org/bendrucker/module-not-found-error.svg?branch=master)](https://travis-ci.org/bendrucker/module-not-found-error)
+# module-not-found-error [![Build Status](https://travis-ci.org/bendrucker/module-not-found-error.svg?branch=master)](https://travis-ci.org/bendrucker/module-not-found-error) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/module-not-found-error.svg)](https://greenkeeper.io/)
 
 > Create a module not found error
 
